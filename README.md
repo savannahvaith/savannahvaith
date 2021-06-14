@@ -4,19 +4,17 @@
 
 ```javascript
 
-const whoAmI = () => {
-    const user = `Savannah Vaith`;
-    const occupation = `Full Stack Developer`;
-    const hobbies = [
-                    'Travelling',
-                    'Watching Movies',
-                    'Chasing my dog who loves to steal my socks',
-                    'Staying up all night chasing that ONE bug...'
-                   ]
-                   
-    const getCity = () => 'London, United Kingdom'; 
-
-    const ambitions = () => {
+const whoAmI = {
+    user : `Savannah Vaith`,
+    occupation : `Full Stack Developer`,
+    hobbies : [
+                 'Travelling',
+                 'Watching Movies',
+                 'Chasing my dog who loves to steal my socks',
+                 'Staying up all night chasing that ONE bug...'
+               ],
+    getCity : () => 'London, United Kingdom',
+    ambitions : () => {
         SkyDiving(); // Completed - 2018
         IslandHoppingInTheCarribean(); // Pending - post 'rona
         BuildANewSocialMediaPlatform(); 
