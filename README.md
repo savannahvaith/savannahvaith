@@ -26,8 +26,17 @@ const whoAmI = () => {
 ```
 ## 💻 Techs and Languages I use
 
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=savannahvaith&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6">
- 
 ### Programming Languages
 
-<img src="https://i.imgur.com/p0iInfp.png" width="50px" height="50px"/>
+<img src="https://i.imgur.com/FI6zNOd.png" width="40px" alt="Java"/> &nbsp; <img src="https://i.imgur.com/o0GEoUG.png" width="40px" alt="JS"/> &nbsp; <img src="https://i.imgur.com/p0iInfp.png" width="40px" alt="SQL"/> &nbsp; <img src="https://i.imgur.com/Gt41wVy.png" width="40px" alt="python" />
+
+### Frameworks
+
+<img src="https://i.imgur.com/s9UZ2zj.png" width="50px" alt="Spring"/> &nbsp; <img src="https://i.imgur.com/G4ewIRk.png" width="40px" alt="React"/> &nbsp; <img src="https://i.imgur.com/naWTkBM.png" width="40px" alt="Express"/> &nbsp; <img src="https://i.imgur.com/d5p2RSI.png" width="40px" alt="JQuery"/>
+
+### Annnnd some more
+
+<img src="https://i.imgur.com/TSZVG5g.png" width="40px" alt="html-5" /> &nbsp; <img src="https://i.imgur.com/9xbG6Ox.png" width="35px" alt="css"/> &nbsp; <img src="https://i.imgur.com/uGHPrRG.png" width="35px" alt="nodejs"/> 
+
+![Savannah's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=savannahvaith&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6)
+ 
