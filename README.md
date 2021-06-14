@@ -28,4 +28,6 @@ const whoAmI = () => {
 
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=savannahvaith&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6">
  
-... annnd a whole bunch more! 
+### Programming Languages
+
+<img src="https://i.imgur.com/p0iInfp.png" width="50px" height="50px"/>
