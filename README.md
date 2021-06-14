@@ -5,9 +5,9 @@
 ```javascript
 
 const whoAmI = () => {
-    let user = `Savannah Vaith`;
-    let occupation = `Full Stack Developer`;
-    let hobbies = [
+    const user = `Savannah Vaith`;
+    const occupation = `Full Stack Developer`;
+    const hobbies = [
                     'Travelling',
                     'Watching Movies',
                     'Chasing my dog who loves to steal my socks',
