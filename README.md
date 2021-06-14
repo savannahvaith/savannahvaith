@@ -14,11 +14,12 @@ const whoAmI = () => {
                     'Staying up all night chasing that ONE bug...'
                    ]
                    
-    const getCity = () => London_UnitedKingdom(); 
-    
+    const getCity = () => 'London, United Kingdom'; 
+
     const ambitions = () => {
-        IslandHopping();
-        CreateASocialMediaPlatform();
+        SkyDiving(); // Completed - 2018
+        IslandHoppingInTheCarribean(); // Pending - post 'rona
+        BuildANewSocialMediaPlatform(); 
         // Assume 5 more awesome things here :P
        }
 }
@@ -38,5 +39,6 @@ const whoAmI = () => {
 
 <img src="https://i.imgur.com/TSZVG5g.png" width="40px" alt="html-5" /> &nbsp; <img src="https://i.imgur.com/9xbG6Ox.png" width="35px" alt="css"/> &nbsp; <img src="https://i.imgur.com/uGHPrRG.png" width="35px" alt="nodejs"/> 
 
-![Savannah's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=savannahvaith&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6)
+![Savannah's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=savannahvaith&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6) ![Savannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahvaith&count_private=true&layout=compact&hide_border=false&theme=darcula&bg_color=00000000)
+
  
