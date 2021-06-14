@@ -4,7 +4,7 @@
 
 ```javascript
 
-const whoAmI = {
+const whoAmI = () => {
     const user = `Savannah Vaith`;
     const occupation = `Full Stack Developer`;
     const hobbies = [
