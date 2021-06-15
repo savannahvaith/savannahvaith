@@ -17,7 +17,7 @@ const whoAmI = {
     ambitions : () => {
         SkyDiving(); // Completed - 2018
         IslandHoppingInTheCarribean(); // Pending - post 'rona
-        CreateMyOwnOwnSourceProject(); 
+        CreateMyOwnOpenSourceProject(); 
        }
 }
 
